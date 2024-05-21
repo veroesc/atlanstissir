@@ -1,0 +1,81 @@
+body {
+    margin: 25px;
+}
+
+.mainContentReceipt{
+	width: 850px;
+	height: 1050px;
+}
+
+div#html{
+  padding: 10px;
+}
+.tableContent {
+	min-height:780px;
+}
+table tr.page-break{
+  page-break-after:always;
+}
+.logoStyle {
+	width: 220px;
+}
+.printableContent{
+  padding-left: 30px;
+  font-size:small;
+  width: 850px;
+}
+table#header{
+  width: 800px;
+}
+table#header td {
+  text-align:center
+}
+.heading{
+  font-weight: 600;
+  height: 20px;
+}
+.impuestosTable {
+	width: 400px;
+}
+.underlineStyling{
+	text-decoration: underline;
+}
+.statusHeading{
+	height: 10px;
+}
+
+.imageCSS {
+    width: 815px;
+}
+
+.labelStyle{
+	color: gray;
+	font-weight: bold;
+}
+.formContainer {
+	width: 780px;
+}
+.brandLogoStyle {
+  height: 120px;
+}
+.brandLogoStyle2 {
+  height: 90px;
+}
+.loteriaCell {
+  width: 10%;
+  text-align:right;
+}
+.branding .paddingStyle {
+  padding-left: 160px;
+}
+.labelStyle{
+  width: 30%;
+  vertical-align: top;
+}
+.valueStyle {
+  word-break: break-all;
+}
+
+#printableContentTc tbody tr:nth-child(odd) {
+  background-color: #ccc;
+}
